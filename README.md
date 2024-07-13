@@ -1,4 +1,4 @@
-Đây là setup để chạy 1 server PaperMC trên Github Codespaces. Báo trước là cái này ko nên dùng để chơi lâu dài vì 2 core 8gb ram max là 60 tiếng / tháng và 4 core 16gb ram max là 30 tiếng / tháng. Nếu muốn thử thì hd đây :
+Đây là setup để chạy 1 server PaperMC 1.21 trên Github Codespaces. Báo trước là cái này ko nên dùng để chơi lâu dài vì 2 core 8gb ram max là 60 tiếng / tháng và 4 core 16gb ram max là 30 tiếng / tháng. Nếu muốn thử thì hd đây :
 1. Fork cái repo này
 2. Ấn vô code -> codespaces -> Create codespace on main
 3. Thoát cái tab codespaces, vô lại cái codespaces, ấn 3 chấm r tắt cái Auto delete codespaces và chỉnh machine type cũng ở đấy. Rồi vô lại codespaces
