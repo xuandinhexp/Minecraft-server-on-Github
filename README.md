@@ -7,5 +7,4 @@
       16gb ram : java -Xmx14G -Xsm12G -jar (file jar paper) --nogui
 6. Lúc server chạy thì sẽ có cái link playit.gg, giữ ctrl r click vô, create account -> use guest account -> chờ r ấn add agent -> chờ tiếp và boom Tunnel Created: (cái này random).joinmc.link <= cái này sẽ là ip server
 7. Mở Minecraft lên r copy cái link này để vô thôi :D
-8. Chơi xong thì vô console r dùng lệnh stop để dừng server, tìm cái nút khi hover ghi là source control (nó ở bên trái), ấn commit, yes, ghi cái j cũng đc trong COMMI_EDITMSG, sync changes, yes r thoát tab, vô trang github đã fork r vô codespaces r stop codespaces (để tránh nó quá 30 hoặc 60 tiếng lúc nào ko biết 🐧)
-Từ lần 2 bật server trở đi thì ip sẽ khác cái đầu nhưng ip mới nó sẽ hiện trong console nên ko phải lo
+8. Chơi xong thì vô console r dùng lệnh stop để dừng server, tìm cái nút khi hover ghi là source control (nó ở bên trái), ấn commit, yes, ghi cái j cũng đc trong COMMI_EDITMSG, sync changes, yes r thoát tab, vô trang github đã fork r vô codespaces r stop codespaces (để tránh nó quá 30 hoặc 60 tiếng lúc nào ko biết 🐧). Từ lần 2 bật server trở đi thì ip sẽ khác cái đầu nhưng ip mới nó sẽ hiện trong console nên ko phải lo
